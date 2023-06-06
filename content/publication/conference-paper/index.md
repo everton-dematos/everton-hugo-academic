@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Cooperative Middleware Platform as a Service for Internet of Things Applications'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
