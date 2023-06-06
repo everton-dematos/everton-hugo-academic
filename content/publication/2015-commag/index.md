@@ -10,7 +10,7 @@ authors:
   - Everton de Matos
   - Fabiano Hessel
 
-date: '2015-05-13T00:00:00Z'
+date: '2015-12-17T00:00:00Z'
 doi: ''
 
 # Publication type.
