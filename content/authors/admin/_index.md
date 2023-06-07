@@ -55,12 +55,18 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=rUDgNhUAAAAJ
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Everton_De_Matos
   - icon: github
     icon_pack: fab
     link: https://github.com/everton-dematos
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/evermatos
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/evermatos
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -75,5 +81,9 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Everton de Matos Acts as Senior Security Research Engineer at [Technology Innovation Institute](https://tii.ae/), in the <em>Secure Systems Research Centre</em> department.
+
+He holds a Ph.D. in Computer Science from the [Pontifical Catholic University of Rio Grande do Sul (PUCRS)](http://www.pucrs.br/), acting at Embedded System Group (GSE), with [Prof. Fabiano Hessel](https://scholar.google.com/citations?user=cZguQ0UAAAAJ) as his advisor. He was awarded a [Fulbright](http://fulbright.org.br/) scholarship to develop his doctoral dissertation at the [University of Southern California (USC)](https://www.usc.edu/), under the guidance of [Prof. Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/).
+
+He has experience in Computer Science and his research interests are Internet of Things, Embedded Systems, Information Security, Virtualization, Hypervisors, and Microkernels. 
 {style="text-align: justify;"}
