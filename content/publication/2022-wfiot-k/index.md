@@ -34,7 +34,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1109/WF-IoT54382.2022.10152096'
 url_code: ''
 url_dataset: ''
 url_poster: ''

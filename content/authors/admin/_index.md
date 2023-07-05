@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Security Research Engineer
+role: Lead Security Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,7 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-Everton de Matos Acts as Senior Security Research Engineer at [Technology Innovation Institute](https://tii.ae/), in the <em>Secure Systems Research Center</em>.
+Everton de Matos Acts as Lead Security Research Engineer at [Technology Innovation Institute](https://tii.ae/), in the <em>Secure Systems Research Center</em>.
 
 He holds a Ph.D. in Computer Science from the [Pontifical Catholic University of Rio Grande do Sul (PUCRS)](http://www.pucrs.br/), acting at Embedded System Group (GSE), with [Prof. Fabiano Hessel](https://scholar.google.com/citations?user=cZguQ0UAAAAJ) as his advisor. He was awarded a [Fulbright](http://fulbright.org.br/) scholarship to develop his doctoral dissertation at the [University of Southern California (USC)](https://www.usc.edu/), under the guidance of [Prof. Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/).
 
