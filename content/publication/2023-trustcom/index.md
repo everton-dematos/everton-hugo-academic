@@ -39,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1109/TrustCom60117.2023.00149'
 url_code: ''
 url_dataset: ''
 url_poster: ''
